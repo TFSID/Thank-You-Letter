@@ -22,7 +22,7 @@ body {
     flex-direction: column;
     padding: auto;
     margin: auto;
-    transform: translate(0%, 34rem);
+    transform: translate(0%, 10rem);
 }
 .greetings {
     display: flex;
@@ -117,6 +117,8 @@ greetings>span:nth-child(10) {
         flex-direction: column;
         padding: auto;
         margin: auto;
+    transform: translate(0%, 2.5rem);
+
     }
   .greetings {
     display: block;
