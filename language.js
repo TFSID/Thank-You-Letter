@@ -4,7 +4,7 @@
 const languages = [
     // Bahasa Daerah di Indonesia
     "hatur nuhun",     // Sunda
-    "matur nuwun",     // Jawa
+    "matur suwun",     // Jawa
     "tarima kasi",     // Makassar
     "kula nuwun",      // Jawa Ngoko
     "tabikpun",        // Lampung
@@ -35,9 +35,7 @@ const languages = [
     "ευχαριστώ",       // Greek
     "tack",            // Swedish
     "hvala",           // Bosnian/Serbian/Croatian
-    "ありがとう",        // Japanese
     "grazie",          // Italian
-    "ありがとう",        // Japanese
     "tak",             // Danish
     "dankon",          // Esperanto
     "muito obrigado"  // Portuguese
